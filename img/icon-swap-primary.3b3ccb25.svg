@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 25</title>
+    <defs>
+        <linearGradient x1="1.32879818e-12%" y1="47.5792426%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#738AF5" offset="0%"></stop>
+            <stop stop-color="#6CE6C1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-3" transform="translate(-339.000000, -698.000000)">
+            <g id="编组-25" transform="translate(339.000000, 698.000000)">
+                <circle id="椭圆形" stroke="url(#linearGradient-1)" stroke-width="2" cx="36" cy="36" r="35"></circle>
+                <polygon id="路径-4" fill="#6AEABC" points="23.4481299 26.4447831 30.6848508 19.2080622 37.9215717 26.4447831 32.4157236 26.4447831 32.4157236 39.2340032 28.4333958 39.2340032 28.4333958 26.4447831"></polygon>
+                <polygon id="路径-4备份" fill="#6AEABC" transform="translate(41.684851, 42.221033) scale(1, -1) translate(-41.684851, -42.221033) " points="34.4481299 39.4447831 41.6848508 32.2080622 48.9215717 39.4447831 43.4157236 39.4447831 43.4157236 52.2340032 39.4333958 52.2340032 39.4333958 39.4447831"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
